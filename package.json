@@ -1,0 +1,12 @@
+{
+  "name": "apily-history",
+  "description": "History component",
+  "version": "0.2.0",
+  "keywords": [
+    "history",
+    "onhashchange",
+    "popstate"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
